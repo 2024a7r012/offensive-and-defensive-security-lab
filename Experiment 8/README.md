@@ -1,18 +1,19 @@
-Experiment 8: Mapping Threats with MITRE ATT&CK
-Aim
+## Experiment 8: Mapping Threats with MITRE ATT&CK
+## Aim
 To analyze a sample cyberattack scenario, map the identified attack techniques to the MITRE ATT&CK framework, and recommend suitable security mitigations.
 
-Overview
+## Overview
 MITRE ATT&CK is a cybersecurity framework that provides information about real-world attacker tactics and techniques. It helps security analysts understand how attackers exploit vulnerabilities, gain access, and perform malicious activities.
 
 In this practical, I explored the MITRE ATT&CK website, Enterprise Matrix, technique pages, and ATT&CK Navigator.
 
-Tools and Requirements
+## Tools and Requirements
 Computer with internet access
 Web browser
 MITRE ATT&CK Website
 MITRE ATT&CK Navigator
-Practical Implementation
+
+## Practical Implementation
 1. Explore MITRE ATT&CK Website
 Visited the MITRE ATT&CK official website and explored its Enterprise ATT&CK resources.
 
